@@ -1,0 +1,23 @@
+h1{
+	text-align:center;
+	color: yellow;
+	margin: auto;
+	background-color: red;
+	text-decoration: underline;
+}
+img {
+	margin: 5px auto;
+	width: 400px;
+    border: 15px ;
+	border-style: solid;
+	border-color: red;
+	border-width: 15px;
+	text-align: centre;
+	display: block;
+}
+body{
+	background-color: yellow ;
+}
+h2,h3,h4{
+	color: red;
+}
